@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nigarish Rehman Sarmad</h1>
-- 🔭 I’m currently working on **completing my degree and getting a decent job by doing DSA.**
+- 🔭 I’m currently working on **completing my degree and getting a decent job by doing DSA**.
 
 - 🌱 I’m currently learning **NLP, Computer Vision & MLOps**
 
